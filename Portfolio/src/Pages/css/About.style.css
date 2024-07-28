@@ -18,11 +18,21 @@
     display: flex;
     padding: 10px;
 }
-.pic_des{
-    padding-top: 90px;
-    padding-left: 90px;
-    border: radius 12%;
-}
 .pic_description{
     display: flex;
 }
+.pic_des{
+    padding-top: 90px;
+    padding-left: 200px;
+    border: 50%;
+    height: 350px;
+    width: 360px;
+}
+.info_about{
+    padding-top: 100px;
+    padding-left: 50px;
+    width: 45%;
+    height: 45%;
+    font-size: 1.6rem;
+}
+
