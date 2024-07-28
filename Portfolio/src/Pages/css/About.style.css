@@ -1,0 +1,28 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    font-family: "poppins", sans-serif;
+}
+.about_top{
+    padding-top: 50px;
+}
+.about_me{
+    font-size: 2rem;
+}
+.about_intro{
+    font-size: 1.5 rem;
+}
+.about_me , .about_intro{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    padding: 10px;
+}
+.pic_des{
+    padding-top: 90px;
+    padding-left: 90px;
+    border: radius 12%;
+}
+.pic_description{
+    display: flex;
+}
