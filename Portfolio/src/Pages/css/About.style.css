@@ -27,6 +27,7 @@
     border: 50%;
     height: 350px;
     width: 360px;
+    border-radius: 10%;
 }
 .info_about{
     padding-top: 100px;
@@ -34,5 +35,29 @@
     width: 45%;
     height: 45%;
     font-size: 1.6rem;
+    color: rgb(64, 60, 60);
+}
+.Edu{
+    padding-top: 8%;
+}
+.Edu_title , .Edu_description{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    padding: 10px;
+}
+.Edu_description{
+    font-size: 1.5 rem;
+}
+
+.Edu_sec{
+    padding: 50px;
+    justify-content: space-around;
+    align-items: center;
+    display: flex;
+}
+ .clg_des , .sch_des , .edu_per{
+    padding-top: 5%;
+    font-size: 1.2rem;
 }
 

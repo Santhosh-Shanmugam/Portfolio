@@ -3,7 +3,7 @@ const Header = () => {
   return (
     <>
        <nav className='navlinks'>
-        <div className='name'>Santhosh</div>
+        <div className='name'>Santhosh Shanmugam</div>
         <div>
           <ul className='ul'>
             <li><a href='#home'>Home</a></li>
