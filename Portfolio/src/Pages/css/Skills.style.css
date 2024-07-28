@@ -1,0 +1,9 @@
+.skill_title{
+    padding-top: 3%;
+}
+.skill_des , .title{
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
