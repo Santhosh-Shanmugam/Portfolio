@@ -39,8 +39,8 @@ a:hover{
 .profile-img{
     padding-top: 2px;
     padding-left: 30%;
-    height: 350px;
-    width: 350px;
+    height: 92%;
+    width: 92%;
     border-radius: 50%;
     display: flex;
 }
@@ -48,7 +48,7 @@ a:hover{
     display: flex;
 }
 .data2{
-    padding-top: 8%;
+    padding-top: 7%;
     padding-left: 15%;
     margin-left: 0%;
     margin-right: 0%;
@@ -60,7 +60,7 @@ a:hover{
     justify-content: space-around;
     align-items: center;
     display: flex;
-    padding-top: 7%;
+    padding-top: 5%;
     padding-left: 10%;
 }
 .btn{
@@ -91,5 +91,10 @@ a:hover{
    display: flex;
 }
 
-
+.iconsall{
+    font-size: 200%;
+}
+.btn_background{
+    gap: 100%;
+}
 

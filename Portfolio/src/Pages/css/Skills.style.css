@@ -7,3 +7,70 @@
     align-items: center;
     display: flex;
 }
+i{
+    font-size: 30px;
+    padding-right: 10px;
+}
+.dev_art{
+    display: flex;
+    padding: 10px;
+}
+.front_des{
+    padding-left: 18%;
+    padding-bottom: 2%;
+    font-size: 130%;
+    color: rgb(58, 54, 54);
+}
+.dev_front{
+    padding-left: 5%;
+}
+.front_dev{
+    /* height: 20%;
+    width: 25%; */
+    border-style: groove;
+    border-radius: 5%;
+    display: flex;
+}
+.dev_art_back{
+    display: flex;
+    padding: 10px;
+}
+.back_des{
+    padding-left: 18%;
+    padding-bottom: 2%;
+    font-size: 130%;
+    color: rgb(58, 54, 54);
+}
+.dev_back{
+    padding-left: 5%;
+}
+.back_dev{
+    /* height: 20%;
+    width: 25%; */
+    border-style: groove;
+    border-radius: 5%;
+    display: flex;
+
+}
+.dev{
+    padding-top: 3%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.back_art{
+    padding-left: 5%;
+}
+.lang{
+    display: flex;
+}
+.lang_des{
+    padding-left: 13%;
+    padding-bottom: 3%;
+    font-size: 130%;
+    color: rgb(58, 54, 54);
+}
+.tag_des{
+    font-size: small;
+    padding-bottom: 4%;
+}

@@ -1,5 +1,4 @@
 import React from 'react'
-
 const Icons = () => {
   return (
     <div className='background_color'>
