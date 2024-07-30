@@ -1,0 +1,67 @@
+.contact_con{
+    padding-top: 60px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-size: 2rem;
+}
+.contact_me{
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-size: 1rem;
+}
+contact_div{
+    display: flex;
+}
+.contact_img{
+    margin-top: 5%;
+    margin-left: 10%;
+    height: 500px;
+    width: 520px;
+    background-color: rgb(247, 248, 249);
+    border-radius: 5%;
+    box-shadow: 0 0 10px;
+}
+.img{
+    margin-top: 20%;
+    height: 60%;
+    width: 60%;
+    border-radius: 50%;
+}
+.img:hover{
+    box-shadow: 0 0 10px,0 0 10px;
+}
+.contact_banner{
+    padding-left: 30%;
+    justify-content: center;
+    align-items: center;
+}
+.h_des{
+    font-size: 2rem;
+    color:rgb(95, 94, 94);
+    padding-top: 5%;
+    padding-left: 11%;
+    justify-content: center;
+}
+pad_contact{
+    padding-top: 10%;
+}
+.h_des_des{
+    font-size: 1.2rem;
+    color: rgb(94, 93, 93);
+    padding-top: 2%;
+    padding-left: 8%;
+    justify-content: center;
+}
+.icons_all{
+    display: flex;
+    gap: 1.5rem;
+    padding-top: 10%;
+    padding-left: 10%;
+    color :rgb(94, 91, 91);
+}
+.contact_form_des{
+    display: flex;
+}
